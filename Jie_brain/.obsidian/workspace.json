@@ -11,14 +11,10 @@
             "id": "4c83fc48060992a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Willkommen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Willkommen"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -170,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Willkommen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Willkommen"
             }
           }
         ]
@@ -193,11 +190,14 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fd5b7ae1d95adbe",
+  "active": "f29d22652ac4b125",
   "lastOpenFiles": [
+    "Unbenannt.base",
+    "Unbenannt.md",
     "Willkommen.md"
   ]
 }
