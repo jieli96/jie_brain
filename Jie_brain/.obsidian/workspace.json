@@ -6,15 +6,20 @@
       {
         "id": "73c27258e14654df",
         "type": "tabs",
+        "dimension": 65.73529411764706,
         "children": [
           {
             "id": "4c83fc48060992a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Daily Note"
             }
           }
         ]
@@ -22,6 +27,7 @@
       {
         "id": "b770448dbc493a76",
         "type": "tabs",
+        "dimension": 34.26470588235294,
         "children": [
           {
             "id": "2fd5b7ae1d95adbe",
@@ -106,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Daily Note"
             }
           },
           {
@@ -124,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Daily Note öffnen"
             }
           },
           {
@@ -166,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Templates/Daily Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Willkommen"
+              "title": "Gliederung von Daily Note"
             }
           }
         ]
@@ -194,10 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f29d22652ac4b125",
+  "active": "4c83fc48060992a4",
   "lastOpenFiles": [
+    "Willkommen.md",
+    "Templates/Daily Note.md",
+    "Templates",
     "Unbenannt.base",
-    "Unbenannt.md",
-    "Willkommen.md"
+    "Unbenannt.md"
   ]
 }
